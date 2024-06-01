@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gkHgJPE7IAa8t5fg4gdRiyfSlE3dDBn7LOwGO5P6Cldxoxxf+s3hRRhuFX5QbQJeOVdPjkt3U5Kj8Qn7vzjZjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MECRUN\\Downloads\\Challenge-Project-variable-data-in-CSharp-main (1)\\Challenge-Project-variable-data-in-CSharp-main\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MECRUN\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\MECRUN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\MECRUN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\MECRUN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
